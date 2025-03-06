@@ -1,6 +1,7 @@
 # BuildYourGPT
 
-This repository contains a simple implementation of a Generative Pretrained Transformer (GPT). The project primarily follows the research paper **"Attention Is All You Need"**, with additional insights from **"Deep Residual Learning for Image Recognition"**, **"Dropout: A Simple Way to Prevent Neural Networks from Overfitting"**, and a few other sources.
+This repository contains a simple implementation of a Generative Pretrained Transformer (GPT). The project primarily follows the research paper **"Attention Is All You Need"**, with additional insights from **"Deep Residual Learning for Image Recognition"**, **"Dropout: A Simple Way to Prevent Neural Networks from Overfitting"**,
+**"Deep Residual Learning for Image Recognition"**, and a few other sources.
 
 ## About
 
