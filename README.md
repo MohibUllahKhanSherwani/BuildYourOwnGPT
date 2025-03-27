@@ -5,13 +5,13 @@ This repository contains a simple implementation of a Generative Pretrained Tran
 
 ## About
 
-This a **learning project** where I followed Andrej Karpathy's tutorial to build a basic transformer model.
+This a **learning project** where I followed Andrej Karpathy's video + some of the above mentioned research papers to build a basic transformer model.
 
 The core idea comes from the **"Attention Is All You Need"** paper by Google engineers, which introduced the **Transformer architecture**—the foundation of modern models like GPT and ChatGPT.
 
 ## References
 
-- **Andrej Karpathy's tutorial:**  
+- **Andrej Karpathy's Video:**  
   [https://youtu.be/kCc8FmEb1nY?si=SUSakqEUBg8tCgZ1](https://youtu.be/kCc8FmEb1nY?si=C_hW8fNZ1Lft_yGc)  
 
 - **"Attention Is All You Need" Paper:**  
